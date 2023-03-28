@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+     <head>
+        <meta charset="UTF-8">
+        <title>Produto - Barbearia Alura</title>
+        <link rel="stylesheet" href="produtos.css">
+    </head>
+    <body>
+       <header>
+           <h1><ing src="https://mundoconectado.com.br/uploads/chamadas/subaruev17dez.jpg"></h1>      
+       </header>
+    </body>
+</html>
